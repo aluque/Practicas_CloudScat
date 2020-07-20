@@ -1,0 +1,9 @@
+[deps]
+CloudScat = "a26f3e98-749e-11e9-24f2-331d4bb404a8"
+GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+PlotThemes = "ccf2f8ad-2431-5c83-bf29-c5338b663b6a"
+Plotly = "58dd65bb-95f3-509e-9936-c39a10fdeae7"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
